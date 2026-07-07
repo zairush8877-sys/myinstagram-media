@@ -16,6 +16,7 @@
 | `stories/assets/`   | Исходные фоны для сторис (s1–s5) | JPG source | `stories/assets/README.md` |
 | `cutouts/`          | Вырезанные продукты для флэтлэй-коллажей | PNG (прозр. фон) | `cutouts/README.md` |
 | `vitamin-c/`        | Карусель «Витамин C / Сияние» (пост) | PNG 1080×1350 | `vitamin-c/MANIFEST.md` |
+| `injectables/`      | Карусель «Инъекции в косметологии» (пост) — текст готов | PNG 1080×1350 | `injectables/MANIFEST.md` |
 | `vitamin-c/dev/`    | Черновые варианты обложки карусели | PNG 1080×1350 | `vitamin-c/dev/README.md` |
 | `refs/`             | Референсы стиля с Pinterest | JPG | `refs/README.md` |
 
@@ -40,3 +41,4 @@
 | Эпиталон | сторис | ✅ слайды готовы (5/5) |
 | Витамин C / Сияние | карусель | ⏳ ждёт выгрузки PNG из Canva (см. `vitamin-c/MANIFEST.md`) |
 | **Класкотерон 5%** (трихология) | сторис | 🟡 сценарий 6 слайдов готов, отрисовки нет — `stories/clascoterone/MANIFEST.md` |
+| **Инъекции в косметологии** | карусель | 🟡 текст 7 слайдов + подпись готовы, отрисовки нет — `injectables/MANIFEST.md` |
